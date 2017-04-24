@@ -1,0 +1,8 @@
+{
+    "title" : "Login page",
+    "needHTML" : true,
+
+    "mainController": "controllers/login.inc.php",
+
+    "body_class": "hold-transition login-page"
+}

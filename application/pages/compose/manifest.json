@@ -1,0 +1,13 @@
+{
+    "title" : "Compose a new message",
+    "needHTML" : true,
+
+    "needMenubar": true,
+    "needSidebar": true,
+    "needBottom": true,
+    "needWrapper": true,
+
+    "mainController": "controllers/compose.inc.php",
+
+    "body_class": "hold-transition skin-green sidebar-mini"
+}

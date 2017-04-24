@@ -1,0 +1,13 @@
+{
+    "title" : "Outbox",
+    "needHTML" : true,
+
+    "needMenubar": true,
+    "needSidebar": true,
+    "needBottom": true,
+    "needWrapper": true,
+
+    "mainController": "controllers/outbox.inc.php",
+
+    "body_class": "hold-transition skin-purple sidebar-mini"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "Logout",
+    "needHTML": false,
+
+    "mainController": "controllers/logout.inc.php"
+}

@@ -1,1 +1,2 @@
-application/data/*
+application/data/database.sqlite
+application/data/logs/*
